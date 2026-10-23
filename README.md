@@ -60,7 +60,7 @@ Sistema web completo para gestión de inventario, productos, ventas y ubicacione
 
 - 📧 Email: **garrawil@gmail.com**
 - 💼 WhatsApp: **+51 906 962 893**
-- 💼 LinkedIn: [Wilmer Garcia](https://www.linkedin.com/in/tu-perfil) *(Actualiza este enlace si tienes uno)*
+- 💼 LinkedIn: 
 
 ---
 
