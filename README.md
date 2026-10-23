@@ -3,7 +3,7 @@
   
   <!-- CONTADOR DE VISITAS -->
   <br>
-![Visitas](https://img.shields.io/badge/Visitas-1-blue?style=for-the-badge&logo=github)
+<img src="https://komarev.com/ghpvc/?username=garrawil-cyber&color=2a5298&style=for-the-badge&label=VISITAS+AL+PERFIL&v=1" alt="Visitas al perfil" />
 </div>
 
 ### 💻 Desarrollador Full-Stack | Backend & Mobile
