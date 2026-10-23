@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2A5298&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Wilmer+Garcia+Ramirez;Desarrollador+Full-Stack;Backend+PHP+%7C+Mobile+Kotlin" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Wilmer+Garcia+Ramirez;Desarrollador+Full-Stack;Backend+PHP+%7C+Mobile+Kotlin" alt="Typing SVG" />
   
   <!-- CONTADOR DE VISITAS -->
   <br>
-  <img src="https://komarev.com/ghpvc/?username=garrawil-cyber&color=2a5298&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=garrawil-cyber&color=2a5298&style=for-the-badge&label=VISITAS+AL+PERFIL&v=1" alt="Visitas al perfil" />
 </div>
 
 ### 💻 Desarrollador Full-Stack | Backend & Mobile
