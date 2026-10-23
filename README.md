@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Wilmer+Garcia+Ramirez;Desarrollador+Full-Stack;Backend+PHP+%7C+Mobile+Kotlin" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Wilmer+Garcia+Ramirez;Desarrollador+Full-Stack;Backend+PHP+%7C+Mobile+Kotlin" alt="Typing SVG" />
   
   <!-- CONTADOR DE VISITAS -->
   <br>
